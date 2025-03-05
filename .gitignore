@@ -16,7 +16,7 @@ target/
 **/application-local.properties
 .idea/
 .idea_copy/
-!.idea/workspace.xml
+!.idea_copy/workspace.xml
 
 ### Eclipse ###
 .apt_generated
